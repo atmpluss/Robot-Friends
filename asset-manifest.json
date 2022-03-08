@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Udemy_React/static/css/main.152c94ed.css",
+    "main.js": "/Udemy_React/static/js/main.9e8d07eb.js",
+    "static/js/787.9f4cdc80.chunk.js": "/Udemy_React/static/js/787.9f4cdc80.chunk.js",
+    "static/media/SEGA.woff": "/Udemy_React/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Udemy_React/index.html",
+    "main.152c94ed.css.map": "/Udemy_React/static/css/main.152c94ed.css.map",
+    "main.9e8d07eb.js.map": "/Udemy_React/static/js/main.9e8d07eb.js.map",
+    "787.9f4cdc80.chunk.js.map": "/Udemy_React/static/js/787.9f4cdc80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.152c94ed.css",
+    "static/js/main.9e8d07eb.js"
+  ]
+}
